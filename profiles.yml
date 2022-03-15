@@ -8,7 +8,7 @@ default:
       password: '55432'
       port: 55432
       dbname: warehouse
-      schema: dbt_brilliant
+      schema: dbt
       threads: 4
 
   target: dev
