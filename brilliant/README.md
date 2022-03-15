@@ -1,4 +1,7 @@
-Welcome to your new dbt project!
+Welcome to your an example dbt project.
+
+This was used as a learning experience and a showcase of dbt work.
+No further updates will be made to this repo.
 
 ### Using the starter project
 
